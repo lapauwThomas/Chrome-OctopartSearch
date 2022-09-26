@@ -21,5 +21,9 @@ Either Octopart changed something to how the query's are build into the URL. Or 
 
 Note: I will not upgrade this into using the Octopart API since that needs a license.
 
+# Disclaimer
+This is an unofficial open source extension and as such all the trademarks and logo's belong to the respective owners.
 
-Enjoy!
+This extension is provided as-is. No responsibility or liability can be assigned to the author, for any reason whatsoever, including and not limited to: it stops working, breaks your browser, sets fire to your printer or any other unintended consequenses. Its not even twenty lines of code, so you can check all the details yourself.
+
+# Enjoy!
